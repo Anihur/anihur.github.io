@@ -1,7 +1,7 @@
 %PDF-1.4
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
 1 0 obj
-<< /F1 2 0 R /F2 3 0 R >>
+<< /F1 2 0 R /F2 3 0 R /F3 5 0 R >>
 endobj
 2 0 obj
 << /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
@@ -10,21 +10,132 @@ endobj
 << /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
 endobj
 4 0 obj
-<< /Contents 8 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 7 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
-  /Type /Page >>
+<< /A << /S /URI /Type /Action /URI (http://www.cvedetails.com/) >> /Border [ 0 0 0 ] /Rect [ 62.69291 551.6236 127.3729 563.6236 ] /Subtype /Link /Type /Annot >>
 endobj
 5 0 obj
-<< /Outlines 9 0 R /PageLabels 10 0 R /PageMode /UseNone /Pages 7 0 R /Type /Catalog >>
+<< /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
 endobj
 6 0 obj
-<< /Author () /CreationDate (D:20150209115230-01'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
-  /Title (\332tiles) >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/maurosoria/dirs3arch) >> /Border [ 0 0 0 ] /Rect [ 62.69291 462.8236 115.3729 474.8236 ] /Subtype /Link /Type /Annot >>
 endobj
 7 0 obj
-<< /Count 1 /Kids [ 4 0 R ] /Type /Pages >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/galkan/crowbar) >> /Border [ 0 0 0 ] /Rect [ 62.69291 444.8236 109.2691 456.8236 ] /Subtype /Link /Type /Annot >>
 endobj
 8 0 obj
-<< /Length 605 >>
+<< /A << /S /URI /Type /Action /URI (http://www.faradaysec.com/) >> /Border [ 0 0 0 ] /Rect [ 62.69291 381.2236 110.0449 393.2236 ] /Subtype /Link /Type /Annot >>
+endobj
+9 0 obj
+<< /A << /S /URI /Type /Action /URI (http://exploitpack.com/) >> /Border [ 0 0 0 ] /Rect [ 149.7289 329.6236 269.1169 341.6236 ] /Subtype /Link /Type /Annot >>
+endobj
+10 0 obj
+<< /A << /S /URI /Type /Action /URI (http://www.cybrary.it/) >> /Border [ 0 0 0 ] /Rect [ 62.69291 278.0236 108.0289 290.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+11 0 obj
+<< /A << /S /URI /Type /Action /URI (http://www.itsecgames.com/) >> /Border [ 0 0 0 ] /Rect [ 62.69291 226.4236 108.0409 238.4236 ] /Subtype /Link /Type /Annot >>
+endobj
+12 0 obj
+<< /A << /S /URI /Type /Action /URI (http://jeremy.zawodny.com/mysql/mytop/) >> /Border [ 0 0 0 ] /Rect [ 194.0809 137.6236 234.7489 149.6236 ] /Subtype /Link /Type /Annot >>
+endobj
+13 0 obj
+<< /Annots [ 4 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R ] /Contents 43 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 42 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+14 0 obj
+<< /A << /S /URI /Type /Action /URI (https://shadowd.zecure.org/overview/introduction/) >> /Border [ 0 0 0 ] /Rect [ 62.69291 654.6236 161.7104 666.6236 ] /Subtype /Link /Type /Annot >>
+endobj
+15 0 obj
+<< /A << /S /URI /Type /Action /URI (https://github.com/rndc/etherwall) >> /Border [ 0 0 0 ] /Rect [ 62.69291 591.0236 114.0409 603.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+16 0 obj
+<< /A << /S /URI /Type /Action /URI (https://github.com/dotcppfile/DAws) >> /Border [ 0 0 0 ] /Rect [ 62.69291 535.8236 97.36091 547.8236 ] /Subtype /Link /Type /Annot >>
+endobj
+17 0 obj
+<< /A << /S /URI /Type /Action /URI (http://foremost.sourceforge.net/) >> /Border [ 0 0 0 ] /Rect [ 62.69291 447.0236 112.7089 459.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+18 0 obj
+<< /A << /S /URI /Type /Action /URI (https://github.com/sleuthkit/scalpel) >> /Border [ 0 0 0 ] /Rect [ 62.69291 429.0236 97.37291 441.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+19 0 obj
+<< /Annots [ 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R ] /Contents 44 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 42 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+20 0 obj
+<< /Outlines 22 0 R /PageLabels 45 0 R /PageMode /UseNone /Pages 42 0 R /Type /Catalog >>
+endobj
+21 0 obj
+<< /Author () /CreationDate (D:20150209131542-01'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title (\332tiles) >>
+endobj
+22 0 obj
+<< /Count 24 /First 23 0 R /Last 40 0 R /Type /Outlines >>
+endobj
+23 0 obj
+<< /Count 2 /Dest [ 13 0 R /XYZ 62.69291 699.2236 0 ] /First 24 0 R /Last 25 0 R /Next 26 0 R /Parent 22 0 R 
+  /Title (Contrase\361as) >>
+endobj
+24 0 obj
+<< /Dest [ 13 0 R /XYZ 62.69291 662.0236 0 ] /Next 25 0 R /Parent 23 0 R /Title (Generadores) >>
+endobj
+25 0 obj
+<< /Dest [ 13 0 R /XYZ 62.69291 628.4236 0 ] /Parent 23 0 R /Prev 24 0 R /Title (Hash) >>
+endobj
+26 0 obj
+<< /Dest [ 13 0 R /XYZ 62.69291 594.8236 0 ] /Next 27 0 R /Parent 22 0 R /Prev 23 0 R /Title (Vulnerabilidades) >>
+endobj
+27 0 obj
+<< /Count 5 /Dest [ 13 0 R /XYZ 62.69291 539.6236 0 ] /First 28 0 R /Last 32 0 R /Next 33 0 R /Parent 22 0 R 
+  /Prev 26 0 R /Title (Pentesting +  Seguridad) >>
+endobj
+28 0 obj
+<< /Dest [ 13 0 R /XYZ 62.69291 502.4236 0 ] /Next 29 0 R /Parent 27 0 R /Title (Fuerza bruta) >>
+endobj
+29 0 obj
+<< /Dest [ 13 0 R /XYZ 62.69291 420.8236 0 ] /Next 30 0 R /Parent 27 0 R /Prev 28 0 R /Title (Integrated Penetration Testing Environment [IPTE]) >>
+endobj
+30 0 obj
+<< /Dest [ 13 0 R /XYZ 62.69291 369.2236 0 ] /Next 31 0 R /Parent 27 0 R /Prev 29 0 R /Title (Security Frameworks) >>
+endobj
+31 0 obj
+<< /Dest [ 13 0 R /XYZ 62.69291 317.6236 0 ] /Next 32 0 R /Parent 27 0 R /Prev 30 0 R /Title (Formaci\363n) >>
+endobj
+32 0 obj
+<< /Dest [ 13 0 R /XYZ 62.69291 266.0236 0 ] /Parent 27 0 R /Prev 31 0 R /Title (Entornos de pruebas) >>
+endobj
+33 0 obj
+<< /Count 1 /Dest [ 13 0 R /XYZ 62.69291 214.4236 0 ] /First 34 0 R /Last 34 0 R /Next 35 0 R /Parent 22 0 R 
+  /Prev 27 0 R /Title (Monitorizaci\363n) >>
+endobj
+34 0 obj
+<< /Dest [ 13 0 R /XYZ 62.69291 177.2236 0 ] /Parent 33 0 R /Title (MySQL) >>
+endobj
+35 0 obj
+<< /Count 3 /Dest [ 19 0 R /XYZ 62.69291 765.0236 0 ] /First 36 0 R /Last 38 0 R /Next 39 0 R /Parent 22 0 R 
+  /Prev 33 0 R /Title (Defensa) >>
+endobj
+36 0 obj
+<< /Dest [ 19 0 R /XYZ 62.69291 727.8236 0 ] /Next 37 0 R /Parent 35 0 R /Title (Firewalls) >>
+endobj
+37 0 obj
+<< /Dest [ 19 0 R /XYZ 62.69291 694.2236 0 ] /Next 38 0 R /Parent 35 0 R /Prev 36 0 R /Title (WAF) >>
+endobj
+38 0 obj
+<< /Dest [ 19 0 R /XYZ 62.69291 630.6236 0 ] /Parent 35 0 R /Prev 37 0 R /Title (MITM) >>
+endobj
+39 0 obj
+<< /Dest [ 19 0 R /XYZ 62.69291 579.0236 0 ] /Next 40 0 R /Parent 22 0 R /Prev 35 0 R /Title (Web Shells) >>
+endobj
+40 0 obj
+<< /Count 1 /Dest [ 19 0 R /XYZ 62.69291 523.8236 0 ] /First 41 0 R /Last 41 0 R /Parent 22 0 R /Prev 39 0 R 
+  /Title (Forense) >>
+endobj
+41 0 obj
+<< /Dest [ 19 0 R /XYZ 62.69291 486.6236 0 ] /Parent 40 0 R /Title (File Carving) >>
+endobj
+42 0 obj
+<< /Count 2 /Kids [ 13 0 R 19 0 R ] /Type /Pages >>
+endobj
+43 0 obj
+<< /Length 3362 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -56,42 +167,271 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 693.2236 cm
+1 0 0 1 62.69291 674.0236 cm
 q
-BT 1 0 0 1 0 0 Tm 12 TL /F1 12 Tf 0 0 0 rg (Listado de cosas \372tiles) Tj T* ET
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (Contrase\361as) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 640.4236 cm
+q
+BT 1 0 0 1 0 3.6 Tm 21.6 TL /F2 18 Tf 0 0 0 rg (Generadores) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 606.8236 cm
+q
+BT 1 0 0 1 0 3.6 Tm 21.6 TL /F2 18 Tf 0 0 0 rg (Hash) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 569.6236 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (Vulnerabilidades) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 551.6236 cm
+q
+BT 1 0 0 1 0 0 Tm 12 TL /F1 12 Tf 0 0 .501961 rg (CVE Details) Tj  T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 514.4236 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (Pentesting + Seguridad) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 480.8236 cm
+q
+BT 1 0 0 1 0 3.6 Tm 21.6 TL /F2 18 Tf 0 0 0 rg (Fuerza bruta) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 462.8236 cm
+q
+BT 1 0 0 1 0 0 Tm 12 TL /F1 12 Tf 0 0 .501961 rg (dirs3arch ) Tj 0 0 0 rg (- ) Tj /F3 12 Tf ([Python] ) Tj /F1 12 Tf ([HTTP\(S\) directorios/ficheros ]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 432.8236 cm
+q
+BT 1 0 0 1 0 12 Tm .568176 Tw 12 TL /F1 12 Tf 0 0 .501961 rg (crowbar ) Tj 0 0 0 rg (- ) Tj /F3 12 Tf ([Python] ) Tj /F1 12 Tf ([OpenVPN, SSH private key authentication, VNC key authentication,) Tj T* 0 Tw (Remote Desktop Protocol \(RDP\) with NLA support]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 399.2236 cm
+q
+BT 1 0 0 1 0 3.6 Tm 21.6 TL /F2 18 Tf 0 0 0 rg (Integrated Penetration Testing Environment [IPTE]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 381.2236 cm
+q
+BT 1 0 0 1 0 0 Tm 12 TL /F1 12 Tf 0 0 .501961 rg (Faraday ) Tj 0 0 0 rg (- ) Tj /F3 12 Tf ([Python]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 347.6236 cm
+q
+BT 1 0 0 1 0 3.6 Tm 21.6 TL /F2 18 Tf 0 0 0 rg (Security Frameworks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 329.6236 cm
+q
+BT 1 0 0 1 0 0 Tm 12 TL /F1 12 Tf 0 0 0 rg (..`Exploit Pack <) Tj 0 0 .501961 rg (http://exploitpack.com/) Tj 0 0 0 rg (>) Tj (`_) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 296.0236 cm
+q
+BT 1 0 0 1 0 3.6 Tm 21.6 TL /F2 18 Tf 0 0 0 rg (Formaci\363n) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 278.0236 cm
+q
+BT 1 0 0 1 0 0 Tm 12 TL /F1 12 Tf 0 0 .501961 rg (Cybrary ) Tj 0 0 0 rg (- Free IT and CyberSecurity Learning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 244.4236 cm
+q
+BT 1 0 0 1 0 3.6 Tm 21.6 TL /F2 18 Tf 0 0 0 rg (Entornos de pruebas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 226.4236 cm
+q
+BT 1 0 0 1 0 0 Tm 12 TL /F1 12 Tf 0 0 .501961 rg (bWAPP ) Tj 0 0 0 rg (- ) Tj /F3 12 Tf ([PHP + MySQL] ) Tj /F1 12 Tf ([Web]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 189.2236 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (Monitorizaci\363n) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 155.6236 cm
+q
+BT 1 0 0 1 0 3.6 Tm 21.6 TL /F2 18 Tf 0 0 0 rg (MySQL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 137.6236 cm
+q
+BT 1 0 0 1 0 0 Tm 12 TL /F1 12 Tf 0 0 0 rg (A top clone for MySQL - ) Tj 0 0 .501961 rg (MyTOP) Tj  T* ET
 Q
 Q
  
 endstream
 endobj
-9 0 obj
-<< /Count 0 /Type /Outlines >>
+44 0 obj
+<< /Length 1762 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 739.8236 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (Defensa) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 706.2236 cm
+q
+BT 1 0 0 1 0 3.6 Tm 21.6 TL /F2 18 Tf 0 0 0 rg (Firewalls) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 672.6236 cm
+q
+BT 1 0 0 1 0 3.6 Tm 21.6 TL /F2 18 Tf 0 0 0 rg (WAF) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 642.6236 cm
+q
+BT 1 0 0 1 0 12 Tm 1.820751 Tw 12 TL /F1 12 Tf 0 0 .501961 rg (Shadow Daemon ) Tj 0 0 0 rg (- Collection of tools to detect, protocol and prevent attacks on web) Tj T* 0 Tw (applications) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 609.0236 cm
+q
+BT 1 0 0 1 0 3.6 Tm 21.6 TL /F2 18 Tf 0 0 0 rg (MITM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 591.0236 cm
+q
+BT 1 0 0 1 0 0 Tm 12 TL /F1 12 Tf 0 0 .501961 rg (etherwall ) Tj 0 0 0 rg (- ) Tj /F3 12 Tf ([Pyhton] ) Tj /F1 12 Tf ([Linux]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 553.8236 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (Web Shells) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 535.8236 cm
+q
+BT 1 0 0 1 0 0 Tm 12 TL /F1 12 Tf 0 0 .501961 rg (DAws ) Tj 0 0 0 rg (- ) Tj /F3 12 Tf ([PHP] ) Tj /F1 12 Tf ([Linux, Windows]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 498.6236 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (Forense) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 465.0236 cm
+q
+BT 1 0 0 1 0 3.6 Tm 21.6 TL /F2 18 Tf 0 0 0 rg (File Carving) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 447.0236 cm
+q
+BT 1 0 0 1 0 0 Tm 12 TL /F1 12 Tf 0 0 .501961 rg (foremost ) Tj 0 0 0 rg (- ) Tj /F3 12 Tf ([C] ) Tj /F1 12 Tf ([Linux]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 429.0236 cm
+q
+BT 1 0 0 1 0 0 Tm 12 TL /F1 12 Tf 0 0 .501961 rg (scapel) Tj 0 0 0 rg ( ) Tj /F3 12 Tf ([C++] ) Tj /F1 12 Tf ([Linux, Windows]) Tj T* ET
+Q
+Q
+ 
+endstream
 endobj
-10 0 obj
-<< /Nums [ 0 11 0 R ] >>
+45 0 obj
+<< /Nums [ 0 46 0 R 1 47 0 R ] >>
 endobj
-11 0 obj
+46 0 obj
 << /S /D /St 1 >>
 endobj
+47 0 obj
+<< /S /D /St 2 >>
+endobj
 xref
-0 12
+0 48
 0000000000 65535 f
 0000000075 00000 n
-0000000119 00000 n
-0000000229 00000 n
-0000000344 00000 n
-0000000551 00000 n
-0000000657 00000 n
-0000000876 00000 n
-0000000938 00000 n
-0000001598 00000 n
-0000001647 00000 n
-0000001691 00000 n
+0000000129 00000 n
+0000000239 00000 n
+0000000354 00000 n
+0000000535 00000 n
+0000000653 00000 n
+0000000847 00000 n
+0000001035 00000 n
+0000001216 00000 n
+0000001394 00000 n
+0000001572 00000 n
+0000001754 00000 n
+0000001948 00000 n
+0000002221 00000 n
+0000002426 00000 n
+0000002615 00000 n
+0000002805 00000 n
+0000002993 00000 n
+0000003185 00000 n
+0000003442 00000 n
+0000003551 00000 n
+0000003771 00000 n
+0000003849 00000 n
+0000004008 00000 n
+0000004124 00000 n
+0000004233 00000 n
+0000004367 00000 n
+0000004548 00000 n
+0000004665 00000 n
+0000004832 00000 n
+0000004969 00000 n
+0000005099 00000 n
+0000005223 00000 n
+0000005398 00000 n
+0000005495 00000 n
+0000005660 00000 n
+0000005774 00000 n
+0000005895 00000 n
+0000006004 00000 n
+0000006132 00000 n
+0000006284 00000 n
+0000006388 00000 n
+0000006459 00000 n
+0000009878 00000 n
+0000011697 00000 n
+0000011750 00000 n
+0000011787 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(a\200IO\267\221\013c70ng\007\356L\014) (a\200IO\267\221\013c70ng\007\356L\014)]
- /Info 6 0 R /Root 5 0 R /Size 12 >>
+ [(j\343\310i\213\326V+\235&\227\242r\204\036s) (j\343\310i\213\326V+\235&\227\242r\204\036s)]
+ /Info 21 0 R /Root 20 0 R /Size 48 >>
 startxref
-1728
+11824
 %%EOF
