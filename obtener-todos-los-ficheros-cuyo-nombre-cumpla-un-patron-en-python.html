@@ -112,13 +112,15 @@ Eth0s...            </a>
 </footer><!-- /.post-info -->                    </div>
                 </div>
                 <p>Vamos a obtener mediante python todos los ficheros que cumplen determinado patrón en el nombre. En este ejemplo vamos a obtener una lista con el nombre de todos los ficheros ubicados en . que cumplan <strong>*.cfg</strong></p>
-<div class="highlight"><pre><span class="kn">import</span> <span class="nn">glob</span>
-<span class="n">path</span><span class="o">=</span><span class="s">&#39;&#39;</span>
-<span class="n">patron</span><span class="o">=</span><span class="s">&#39;*.cfg&#39;</span>
-<span class="n">list_config_files</span> <span class="o">=</span> <span class="n">glob</span><span class="o">.</span><span class="n">glob</span><span class="p">(</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">patron</span><span class="p">))</span>
-<span class="k">for</span> <span class="n">fichero</span> <span class="ow">in</span> <span class="n">list_config_files</span><span class="p">:</span>
-    <span class="k">print</span><span class="p">(</span><span class="s">&#39;Fichero: {0}&#39;</span><span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="n">fichero</span><span class="p">))</span>
-</pre></div>
+<pre class="code python literal-block">
+<span class="pygments-kn">import</span> <span class="pygments-nn">glob</span>
+<span class="pygments-n">path</span><span class="pygments-o">=</span><span class="pygments-s">''</span>
+<span class="pygments-n">patron</span><span class="pygments-o">=</span><span class="pygments-s">'*.cfg'</span>
+<span class="pygments-n">list_config_files</span> <span class="pygments-o">=</span> <span class="pygments-n">glob</span><span class="pygments-o">.</span><span class="pygments-n">glob</span><span class="pygments-p">(</span><span class="pygments-n">path</span><span class="pygments-o">.</span><span class="pygments-n">join</span><span class="pygments-p">(</span><span class="pygments-n">patron</span><span class="pygments-p">))</span>
+<span class="pygments-k">for</span> <span class="pygments-n">fichero</span> <span class="pygments-ow">in</span> <span class="pygments-n">list_config_files</span><span class="pygments-p">:</span>
+    <span class="pygments-k">print</span><span class="pygments-p">(</span><span class="pygments-s">'Fichero: {0}'</span><span class="pygments-o">.</span><span class="pygments-n">format</span><span class="pygments-p">(</span><span class="pygments-n">fichero</span><span class="pygments-p">))</span>
+
+</pre>
 
             </div>
             <!-- /.entry-content -->

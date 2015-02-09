@@ -77,11 +77,12 @@ Eth0s...            </a>
             <article>
                 <h2><a href="/obtener-todos-los-ficheros-cuyo-nombre-cumpla-un-patron-en-python.html">Obtener todos los ficheros cuyo nombre cumpla un patrón en python</a></h2>
                 <div class="summary"><p>Vamos a obtener mediante python todos los ficheros que cumplen determinado patrón en el nombre. En este ejemplo vamos a obtener una lista con el nombre de todos los ficheros ubicados en . que cumplan <strong>*.cfg</strong></p>
-<div class="highlight"><pre><span class="kn">import</span> <span class="nn">glob</span>
-<span class="n">path</span><span class="o">=</span><span class="s">&#39;&#39;</span>
-<span class="n">patron</span><span class="o">=</span><span class="s">&#39;*.cfg&#39;</span>
-<span class="n">list_config_files</span> <span class="o">=</span> <span class="n">glob</span><span class="o">.</span><span class="n">glob</span><span class="p">(</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">patron</span><span class="p">))</span>
-<span class="k">for</span> <span class="n">fichero</span> <span class="ow">in</span> <span class="n">list_config_files ...</span></pre></div>
+<pre class="code python literal-block">
+<span class="pygments-kn">import</span> <span class="pygments-nn">glob</span>
+<span class="pygments-n">path</span><span class="pygments-o">=</span><span class="pygments-s">''</span>
+<span class="pygments-n">patron</span><span class="pygments-o">=</span><span class="pygments-s">'*.cfg'</span>
+<span class="pygments-n">list_config_files</span> <span class="pygments-o">=</span> <span class="pygments-n">glob</span><span class="pygments-o">.</span><span class="pygments-n">glob</span><span class="pygments-p">(</span><span class="pygments-n">path</span><span class="pygments-o">.</span><span class="pygments-n">join</span><span class="pygments-p">(</span><span class="pygments-n">patron</span><span class="pygments-p">))</span>
+<span class="pygments-k">for</span> <span class="pygments-n">fichero</span> <span class="pygments-ow">in</span> <span class="pygments-n">list_config_files ...</span></pre>
                     <a class="btn btn-default btn-xs" href="/obtener-todos-los-ficheros-cuyo-nombre-cumpla-un-patron-en-python.html">Ver más...</a>
                 </div>
             </article>
@@ -90,14 +91,17 @@ Eth0s...            </a>
                 <h2><a href="/enumerar-las-iteraciones-de-un-bucle-en-python.html">Enumerar las iteraciones de un bucle en python</a></h2>
                 <div class="summary"><p>Podemos utilizar <em>enumerate</em> de python como se puede ver en el siguiente
 ejemplo:</p>
-<div class="highlight"><pre><span class="n">var</span><span class="o">=</span><span class="p">[</span><span class="s">&#39;Caracola&#39;</span><span class="p">,</span><span class="mi">22</span><span class="p">,</span><span class="s">&#39;Pez&#39;</span><span class="p">,</span><span class="mi">45</span><span class="p">,</span><span class="mi">16</span><span class="p">]</span>
+<pre class="code python literal-block">
+<span class="pygments-n">var</span><span class="pygments-o">=</span><span class="pygments-p">[</span><span class="pygments-s">'Caracola'</span><span class="pygments-p">,</span><span class="pygments-mi">22</span><span class="pygments-p">,</span><span class="pygments-s">'Pez'</span><span class="pygments-p">,</span><span class="pygments-mi">45</span><span class="pygments-p">,</span><span class="pygments-mi">16</span><span class="pygments-p">]</span>
 
-<span class="k">for</span> <span class="n">idx</span><span class="p">,</span> <span class="n">valor</span> <span class="ow">in</span> <span class="nb">enumerate</span><span class="p">(</span><span class="n">var</span><span class="p">):</span>
-  <span class="k">print</span> <span class="n">idx</span><span class="p">,</span> <span class="n">valor</span>
-</pre></div>
+<span class="pygments-k">for</span> <span class="pygments-n">idx</span><span class="pygments-p">,</span> <span class="pygments-n">valor</span> <span class="pygments-ow">in</span> <span class="pygments-nb">enumerate</span><span class="pygments-p">(</span><span class="pygments-n">var</span><span class="pygments-p">):</span>
+  <span class="pygments-k">print</span> <span class="pygments-n">idx</span><span class="pygments-p">,</span> <span class="pygments-n">valor</span>
+
+</pre>
 <p>Siendo la salida por consola:</p>
-<div class="highlight"><pre>Python 2.7.3  <span class="o">(</span>default, Aug <span class="m">1</span> 2012, 05:14:39<span class="o">)</span>
-<span class="o">[</span>GCC 4.6.3<span class="o">]</span> on linux2 ...</pre></div>
+<pre class="code bash literal-block">
+Python 2.7.3  <span class="pygments-o">(</span>default, Aug <span class="pygments-m">1</span> 2012, 05:14:39<span class="pygments-o">)</span>
+<span class="pygments-o">[</span>GCC 4.6.3<span class="pygments-o">]</span> on linux2 ...</pre>
                     <a class="btn btn-default btn-xs" href="/enumerar-las-iteraciones-de-un-bucle-en-python.html">Ver más...</a>
                 </div>
             </article>
