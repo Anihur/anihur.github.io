@@ -1,0 +1,211 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+4 0 obj
+<< /BaseFont /Courier-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+endobj
+5 0 obj
+<< /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
+endobj
+6 0 obj
+<< /Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 9 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+7 0 obj
+<< /Outlines 11 0 R /PageLabels 12 0 R /PageMode /UseNone /Pages 9 0 R /Type /Catalog >>
+endobj
+8 0 obj
+<< /Author () /CreationDate (D:20150209112039-01'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title (Obtener todos los ficheros cuyo nombre cumpla un patr\363n en python) >>
+endobj
+9 0 obj
+<< /Count 1 /Kids [ 6 0 R ] /Type /Pages >>
+endobj
+10 0 obj
+<< /Length 4182 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 707.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 33.6 Tm /F2 24 Tf 28.8 TL 3.560882 0 Td (Obtener todos los ficheros cuyo nombre) Tj T* 70.032 0 Td (cumpla un patr\363n en python) Tj T* -73.59288 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 682.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL 43.03937 0 Td (Date:) Tj T* -43.03937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (2013-01-25) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 667.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL 44.37137 0 Td (tags:) Tj T* -44.37137 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 0 Tm 12 TL /F1 12 Tf 0 0 0 rg (PYTHON) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 625.4236 cm
+q
+BT 1 0 0 1 0 24 Tm .938706 Tw 12 TL /F1 12 Tf 0 0 0 rg (Vamos a obtener mediante python todos los ficheros que cumplen determinado patr\363n) Tj T* 0 Tw 1.18761 Tw (en el nombre. En este ejemplo vamos a obtener una lista con el nombre de todos los) Tj T* 0 Tw (ficheros ubicados en . que cumplan ) Tj /F2 12 Tf (*.cfg) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 532.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 84 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 60 43.2 12 re f*
+.960784 .960784 .862745 rg
+n 50.4 60 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 0 48 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 48 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 36 48 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 0 36 43.2 12 re f*
+.960784 .960784 .862745 rg
+n 43.2 36 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 50.4 36 50.4 12 re f*
+.960784 .960784 .862745 rg
+n 0 24 122.4 12 re f*
+.960784 .960784 .862745 rg
+n 129.6 24 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 144 24 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 172.8 24 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 180 24 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 208.8 24 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 216 24 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 244.8 24 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 252 24 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 280.8 24 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 288 24 43.2 12 re f*
+.960784 .960784 .862745 rg
+n 331.2 24 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 0 12 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 12 50.4 12 re f*
+.960784 .960784 .862745 rg
+n 86.4 12 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 108 12 122.4 12 re f*
+.960784 .960784 .862745 rg
+n 230.4 12 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 0 36 12 re f*
+.960784 .960784 .862745 rg
+n 64.8 0 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 72 0 100.8 12 re f*
+.960784 .960784 .862745 rg
+n 172.8 0 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 180 0 43.2 12 re f*
+.960784 .960784 .862745 rg
+n 223.2 0 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 230.4 0 50.4 12 re f*
+.960784 .960784 .862745 rg
+n 280.8 0 14.4 12 re f*
+BT 1 0 0 1 0 60 Tm 12 TL /F3 12 Tf 0 .501961 0 rg (import) Tj /F4 12 Tf 0 0 0 rg ( ) Tj /F3 12 Tf 0 0 1 rg (glob) Tj /F4 12 Tf 0 0 0 rg  T* 0 0 0 rg (path) Tj .4 .4 .4 rg (=) Tj .729412 .129412 .129412 rg ('') Tj 0 0 0 rg  T* 0 0 0 rg (patron) Tj .4 .4 .4 rg (=) Tj .729412 .129412 .129412 rg ('*.cfg') Tj 0 0 0 rg  T* 0 0 0 rg (list_config_files) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (glob) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (glob) Tj 0 0 0 rg (\() Tj 0 0 0 rg (path) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (join) Tj 0 0 0 rg (\() Tj 0 0 0 rg (patron) Tj 0 0 0 rg (\)\)) Tj 0 0 0 rg  T* /F3 12 Tf 0 .501961 0 rg (for) Tj /F4 12 Tf 0 0 0 rg ( ) Tj 0 0 0 rg (fichero) Tj 0 0 0 rg ( ) Tj /F3 12 Tf .666667 .133333 1 rg (in) Tj /F4 12 Tf 0 0 0 rg ( ) Tj 0 0 0 rg (list_config_files) Tj 0 0 0 rg (:) Tj 0 0 0 rg  T* (    ) Tj /F3 12 Tf 0 .501961 0 rg (print) Tj /F4 12 Tf 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ('Fichero: {0}') Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (format) Tj 0 0 0 rg (\() Tj 0 0 0 rg (fichero) Tj 0 0 0 rg (\)\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+endobj
+11 0 obj
+<< /Count 0 /Type /Outlines >>
+endobj
+12 0 obj
+<< /Nums [ 0 13 0 R ] >>
+endobj
+13 0 obj
+<< /S /D /St 1 >>
+endobj
+xref
+0 14
+0000000000 65535 f
+0000000075 00000 n
+0000000139 00000 n
+0000000249 00000 n
+0000000364 00000 n
+0000000477 00000 n
+0000000585 00000 n
+0000000793 00000 n
+0000000900 00000 n
+0000001178 00000 n
+0000001240 00000 n
+0000005479 00000 n
+0000005529 00000 n
+0000005573 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(\271\224\013\362\353\346\304\351\356\323\372\307\322\356\273") (\271\224\013\362\353\346\304\351\356\323\372\307\322\356\273")]
+ /Info 8 0 R /Root 7 0 R /Size 14 >>
+startxref
+5610
+%%EOF

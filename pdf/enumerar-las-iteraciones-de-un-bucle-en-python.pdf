@@ -1,0 +1,315 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R /F5 6 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+4 0 obj
+<< /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+endobj
+5 0 obj
+<< /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
+endobj
+6 0 obj
+<< /BaseFont /Courier-Bold /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font >>
+endobj
+7 0 obj
+<< /A << /S /URI /Type /Action /URI (http://www.doughellmann.com/PyMOTW/glob/) >> /Border [ 0 0 0 ] /Rect [ 88.69291 340.5236 164.7129 352.5236 ] /Subtype /Link /Type /Annot >>
+endobj
+8 0 obj
+<< /Annots [ 7 0 R ] /Contents 12 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 11 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+9 0 obj
+<< /Outlines 13 0 R /PageLabels 14 0 R /PageMode /UseNone /Pages 11 0 R /Type /Catalog >>
+endobj
+10 0 obj
+<< /Author () /CreationDate (D:20150209112039-01'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title (Enumerar las iteraciones de un bucle en python) >>
+endobj
+11 0 obj
+<< /Count 1 /Kids [ 8 0 R ] /Type /Pages >>
+endobj
+12 0 obj
+<< /Length 6720 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 707.4236 cm
+q
+BT 1 0 0 1 0 33.6 Tm 4.856882 0 Td 28.8 TL /F2 24 Tf 0 0 0 rg (Enumerar las iteraciones de un bucle en) Tj T* 190.092 0 Td (python) Tj T* -194.9489 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 682.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL 43.03937 0 Td (Date:) Tj T* -43.03937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (2013-01-11 12:05) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 667.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL 44.37137 0 Td (tags:) Tj T* -44.37137 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 0 Tm 12 TL /F1 12 Tf 0 0 0 rg (PYTHON) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 649.4236 cm
+q
+BT 1 0 0 1 0 0 Tm 12 TL /F1 12 Tf 0 0 0 rg (Podemos utilizar ) Tj /F3 12 Tf (enumerate ) Tj /F1 12 Tf (de python como se puede ver en el siguiente ejemplo:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 580.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 60 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 36 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 21.6 36 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 36 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 36 36 72 12 re f*
+.960784 .960784 .862745 rg
+n 108 36 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 115.2 36 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 129.6 36 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 136.8 36 36 12 re f*
+.960784 .960784 .862745 rg
+n 172.8 36 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 180 36 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 194.4 36 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 201.6 36 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 216 36 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 0 12 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 12 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 50.4 12 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 64.8 12 36 12 re f*
+.960784 .960784 .862745 rg
+n 108 12 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 129.6 12 64.8 12 re f*
+.960784 .960784 .862745 rg
+n 194.4 12 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 201.6 12 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 223.2 12 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 14.4 0 36 12 re f*
+.960784 .960784 .862745 rg
+n 57.6 0 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 79.2 0 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 93.6 0 36 12 re f*
+BT 1 0 0 1 0 36 Tm 12 TL /F4 12 Tf 0 0 0 rg (var) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ([) Tj .729412 .129412 .129412 rg ('Caracola') Tj 0 0 0 rg (,) Tj .4 .4 .4 rg (22) Tj 0 0 0 rg (,) Tj .729412 .129412 .129412 rg ('Pez') Tj 0 0 0 rg (,) Tj .4 .4 .4 rg (45) Tj 0 0 0 rg (,) Tj .4 .4 .4 rg (16) Tj 0 0 0 rg (]) Tj 0 0 0 rg  T*  T* /F5 12 Tf 0 .501961 0 rg (for) Tj /F4 12 Tf 0 0 0 rg ( ) Tj 0 0 0 rg (idx) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (valor) Tj 0 0 0 rg ( ) Tj /F5 12 Tf .666667 .133333 1 rg (in) Tj /F4 12 Tf 0 0 0 rg ( ) Tj 0 .501961 0 rg (enumerate) Tj 0 0 0 rg (\() Tj 0 0 0 rg (var) Tj 0 0 0 rg (\):) Tj 0 0 0 rg  T* (  ) Tj /F5 12 Tf 0 .501961 0 rg (print) Tj /F4 12 Tf 0 0 0 rg ( ) Tj 0 0 0 rg (idx) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (valor) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 560.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Siendo la salida por consola:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 383.0236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 508.8 168 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 100.8 144 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 201.6 144 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 316.8 144 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 0 132 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 72 132 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 36 120 43.2 12 re f*
+.960784 .960784 .862745 rg
+n 93.6 120 79.2 12 re f*
+.960784 .960784 .862745 rg
+n 187.2 120 64.8 12 re f*
+.960784 .960784 .862745 rg
+n 280.8 120 64.8 12 re f*
+.960784 .960784 .862745 rg
+n 352.8 120 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 108 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 50.4 108 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 64.8 108 72 12 re f*
+.960784 .960784 .862745 rg
+n 165.6 108 36 12 re f*
+.960784 .960784 .862745 rg
+n 244.8 108 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 96 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 223.2 96 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 252 96 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 0 60 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 0 48 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 0 36 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 0 24 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 0 12 7.2 12 re f*
+BT 1 0 0 1 0 144 Tm 12 TL /F4 12 Tf 0 0 0 rg (Python 2.7.3  ) Tj .4 .4 .4 rg (\() Tj 0 0 0 rg (default, Aug ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg ( 2012, 05:14:39) Tj .4 .4 .4 rg (\)) Tj 0 0 0 rg  T* .4 .4 .4 rg ([) Tj 0 0 0 rg (GCC 4.6.3) Tj .4 .4 .4 rg (]) Tj 0 0 0 rg ( on linux2) Tj T* (Type ) Tj .729412 .129412 .129412 rg ("help") Tj 0 0 0 rg (, ) Tj .729412 .129412 .129412 rg ("copyright") Tj 0 0 0 rg (, ) Tj .729412 .129412 .129412 rg ("credits") Tj 0 0 0 rg ( or ) Tj .729412 .129412 .129412 rg ("license") Tj 0 0 0 rg ( ) Tj /F5 12 Tf 0 .501961 0 rg (for) Tj /F4 12 Tf 0 0 0 rg ( more information) Tj T* (>) Tj (>) Tj (>) Tj ( ) Tj .098039 .090196 .486275 rg (var) Tj .4 .4 .4 rg (=[) Tj .729412 .129412 .129412 rg ('Caracola') Tj 0 0 0 rg (,22,) Tj .729412 .129412 .129412 rg ('Pez') Tj 0 0 0 rg (,45,16) Tj .4 .4 .4 rg (]) Tj 0 0 0 rg  T* (>) Tj (>) Tj (>) Tj ( ) Tj /F5 12 Tf 0 .501961 0 rg (for) Tj /F4 12 Tf 0 0 0 rg ( idx, valor in enumerate) Tj .4 .4 .4 rg (\() Tj 0 0 0 rg (var) Tj .4 .4 .4 rg (\)) Tj 0 0 0 rg (:) Tj T* (... print idx, valor) Tj T* (...) Tj T* .4 .4 .4 rg (0) Tj 0 0 0 rg ( Caracola) Tj T* .4 .4 .4 rg (1) Tj 0 0 0 rg ( 22) Tj T* .4 .4 .4 rg (2) Tj 0 0 0 rg ( Pez) Tj T* .4 .4 .4 rg (3) Tj 0 0 0 rg ( 45) Tj T* .4 .4 .4 rg (4) Tj 0 0 0 rg ( 16) Tj T* (>) Tj (>) Tj (>) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 363.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Fuentes:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 357.0236 cm
+Q
+q
+1 0 0 1 62.69291 357.0236 cm
+Q
+q
+1 0 0 1 62.69291 345.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL 9.8 0 Td (\177) Tj T* -9.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Doug Hellman) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 345.0236 cm
+Q
+ 
+endstream
+endobj
+13 0 obj
+<< /Count 0 /Type /Outlines >>
+endobj
+14 0 obj
+<< /Nums [ 0 15 0 R ] >>
+endobj
+15 0 obj
+<< /S /D /St 1 >>
+endobj
+xref
+0 16
+0000000000 65535 f
+0000000075 00000 n
+0000000149 00000 n
+0000000259 00000 n
+0000000374 00000 n
+0000000492 00000 n
+0000000600 00000 n
+0000000713 00000 n
+0000000908 00000 n
+0000001135 00000 n
+0000001243 00000 n
+0000001500 00000 n
+0000001563 00000 n
+0000008340 00000 n
+0000008390 00000 n
+0000008434 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(\220\025\242\(\267\250\275\007\312\204\343\344\(\241\373\315) (\220\025\242\(\267\250\275\007\312\204\343\344\(\241\373\315)]
+ /Info 10 0 R /Root 9 0 R /Size 16 >>
+startxref
+8471
+%%EOF

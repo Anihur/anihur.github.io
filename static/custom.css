@@ -1,0 +1,42 @@
+p{
+    font-family: FontAwesome;
+}
+
+.navbar-brand {
+    font-size: 32px;
+    font-weight: bolder;
+}
+
+.navbar-default .navbar-brand {
+    color: #AAB6CA;
+}
+
+
+.navbar-nav>li>a {
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+pre {
+    border-radius: 10px;
+}
+
+pre, samp {
+    font-family: Courier;
+    font-size: 16px;
+}
+
+.label {
+    padding: 4px 10px 4px 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    border: 1px solid #333;
+    color: #333;
+}
+
+
+.label-pdf {
+    border: 1px solid #ddd;
+    color: whitesmoke;
+    background-color: #E22919;
+}
