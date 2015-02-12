@@ -113,30 +113,26 @@ Eth0s...            </a>
                 </div>
                 <p>Podemos utilizar <em>enumerate</em> de python como se puede ver en el siguiente
 ejemplo:</p>
-<pre class="code python literal-block">
-<span class="pygments-n">var</span><span class="pygments-o">=</span><span class="pygments-p">[</span><span class="pygments-s">'Caracola'</span><span class="pygments-p">,</span><span class="pygments-mi">22</span><span class="pygments-p">,</span><span class="pygments-s">'Pez'</span><span class="pygments-p">,</span><span class="pygments-mi">45</span><span class="pygments-p">,</span><span class="pygments-mi">16</span><span class="pygments-p">]</span>
+<div class="highlight"><pre><span class="n">var</span><span class="o">=</span><span class="p">[</span><span class="s">&#39;Caracola&#39;</span><span class="p">,</span><span class="mi">22</span><span class="p">,</span><span class="s">&#39;Pez&#39;</span><span class="p">,</span><span class="mi">45</span><span class="p">,</span><span class="mi">16</span><span class="p">]</span>
 
-<span class="pygments-k">for</span> <span class="pygments-n">idx</span><span class="pygments-p">,</span> <span class="pygments-n">valor</span> <span class="pygments-ow">in</span> <span class="pygments-nb">enumerate</span><span class="pygments-p">(</span><span class="pygments-n">var</span><span class="pygments-p">):</span>
-  <span class="pygments-k">print</span> <span class="pygments-n">idx</span><span class="pygments-p">,</span> <span class="pygments-n">valor</span>
-
-</pre>
+<span class="k">for</span> <span class="n">idx</span><span class="p">,</span> <span class="n">valor</span> <span class="ow">in</span> <span class="nb">enumerate</span><span class="p">(</span><span class="n">var</span><span class="p">):</span>
+  <span class="k">print</span> <span class="n">idx</span><span class="p">,</span> <span class="n">valor</span>
+</pre></div>
 <p>Siendo la salida por consola:</p>
-<pre class="code bash literal-block">
-Python 2.7.3  <span class="pygments-o">(</span>default, Aug <span class="pygments-m">1</span> 2012, 05:14:39<span class="pygments-o">)</span>
-<span class="pygments-o">[</span>GCC 4.6.3<span class="pygments-o">]</span> on linux2
-Type <span class="pygments-s2">&quot;help&quot;</span>, <span class="pygments-s2">&quot;copyright&quot;</span>, <span class="pygments-s2">&quot;credits&quot;</span> or <span class="pygments-s2">&quot;license&quot;</span> <span class="pygments-k">for</span> more information
-&gt;&gt;&gt; <span class="pygments-nv">var</span><span class="pygments-o">=[</span><span class="pygments-s1">'Caracola'</span>,22,<span class="pygments-s1">'Pez'</span>,45,16<span class="pygments-o">]</span>
-&gt;&gt;&gt; <span class="pygments-k">for</span> idx, valor in enumerate<span class="pygments-o">(</span>var<span class="pygments-o">)</span>:
+<div class="highlight"><pre>Python 2.7.3  <span class="o">(</span>default, Aug <span class="m">1</span> 2012, 05:14:39<span class="o">)</span>
+<span class="o">[</span>GCC 4.6.3<span class="o">]</span> on linux2
+Type <span class="s2">&quot;help&quot;</span>, <span class="s2">&quot;copyright&quot;</span>, <span class="s2">&quot;credits&quot;</span> or <span class="s2">&quot;license&quot;</span> <span class="k">for</span> more information
+&gt;&gt;&gt; <span class="nv">var</span><span class="o">=[</span><span class="s1">&#39;Caracola&#39;</span>,22,<span class="s1">&#39;Pez&#39;</span>,45,16<span class="o">]</span>
+&gt;&gt;&gt; <span class="k">for</span> idx, valor in enumerate<span class="o">(</span>var<span class="o">)</span>:
 ... print idx, valor
 ...
-<span class="pygments-m">0</span> Caracola
-<span class="pygments-m">1</span> 22
-<span class="pygments-m">2</span> Pez
-<span class="pygments-m">3</span> 45
-<span class="pygments-m">4</span> 16
+<span class="m">0</span> Caracola
+<span class="m">1</span> 22
+<span class="m">2</span> Pez
+<span class="m">3</span> 45
+<span class="m">4</span> 16
 &gt;&gt;&gt;
-
-</pre>
+</pre></div>
 <p>Fuentes:</p>
 <ul class="simple">
 <li><a class="reference external" href="http://www.doughellmann.com/PyMOTW/glob/">Doug Hellman</a></li>

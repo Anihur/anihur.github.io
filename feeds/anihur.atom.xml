@@ -1,40 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Eth0s...</title><link href="/" rel="alternate"></link><link href="anihur.es/feeds/anihur.atom.xml" rel="self"></link><id>/</id><updated>2013-01-25T00:00:00+01:00</updated><entry><title>Obtener todos los ficheros cuyo nombre cumpla un patrón en python</title><link href="/obtener-todos-los-ficheros-cuyo-nombre-cumpla-un-patron-en-python.html" rel="alternate"></link><updated>2013-01-25T00:00:00+01:00</updated><author><name>Anihur</name></author><id>tag:,2013-01-25:obtener-todos-los-ficheros-cuyo-nombre-cumpla-un-patron-en-python.html</id><summary type="html">&lt;p&gt;Vamos a obtener mediante python todos los ficheros que cumplen determinado patrón en el nombre. En este ejemplo vamos a obtener una lista con el nombre de todos los ficheros ubicados en . que cumplan &lt;strong&gt;*.cfg&lt;/strong&gt;&lt;/p&gt;
-&lt;pre class="code python literal-block"&gt;
-&lt;span class="pygments-kn"&gt;import&lt;/span&gt; &lt;span class="pygments-nn"&gt;glob&lt;/span&gt;
-&lt;span class="pygments-n"&gt;path&lt;/span&gt;&lt;span class="pygments-o"&gt;=&lt;/span&gt;&lt;span class="pygments-s"&gt;''&lt;/span&gt;
-&lt;span class="pygments-n"&gt;patron&lt;/span&gt;&lt;span class="pygments-o"&gt;=&lt;/span&gt;&lt;span class="pygments-s"&gt;'*.cfg'&lt;/span&gt;
-&lt;span class="pygments-n"&gt;list_config_files&lt;/span&gt; &lt;span class="pygments-o"&gt;=&lt;/span&gt; &lt;span class="pygments-n"&gt;glob&lt;/span&gt;&lt;span class="pygments-o"&gt;.&lt;/span&gt;&lt;span class="pygments-n"&gt;glob&lt;/span&gt;&lt;span class="pygments-p"&gt;(&lt;/span&gt;&lt;span class="pygments-n"&gt;path&lt;/span&gt;&lt;span class="pygments-o"&gt;.&lt;/span&gt;&lt;span class="pygments-n"&gt;join&lt;/span&gt;&lt;span class="pygments-p"&gt;(&lt;/span&gt;&lt;span class="pygments-n"&gt;patron&lt;/span&gt;&lt;span class="pygments-p"&gt;))&lt;/span&gt;
-&lt;span class="pygments-k"&gt;for&lt;/span&gt; &lt;span class="pygments-n"&gt;fichero&lt;/span&gt; &lt;span class="pygments-ow"&gt;in&lt;/span&gt; &lt;span class="pygments-n"&gt;list_config_files&lt;/span&gt;&lt;span class="pygments-p"&gt;:&lt;/span&gt;
-    &lt;span class="pygments-k"&gt;print&lt;/span&gt;&lt;span class="pygments-p"&gt;(&lt;/span&gt;&lt;span class="pygments-s"&gt;'Fichero: {0}'&lt;/span&gt;&lt;span class="pygments-o"&gt;.&lt;/span&gt;&lt;span class="pygments-n"&gt;format&lt;/span&gt;&lt;span class="pygments-p"&gt;(&lt;/span&gt;&lt;span class="pygments-n"&gt;fichero&lt;/span&gt;&lt;span class="pygments-p"&gt;))&lt;/span&gt;
-
-&lt;/pre&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;glob&lt;/span&gt;
+&lt;span class="n"&gt;path&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#39;&amp;#39;&lt;/span&gt;
+&lt;span class="n"&gt;patron&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#39;*.cfg&amp;#39;&lt;/span&gt;
+&lt;span class="n"&gt;list_config_files&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;glob&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;glob&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;path&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;join&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;patron&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt;
+&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;fichero&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;list_config_files&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+    &lt;span class="k"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;#39;Fichero: {0}&amp;#39;&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;format&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;fichero&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
 </summary><category term="PYTHON"></category></entry><entry><title>Enumerar las iteraciones de un bucle en python</title><link href="/enumerar-las-iteraciones-de-un-bucle-en-python.html" rel="alternate"></link><updated>2013-01-11T12:05:00+01:00</updated><author><name>Anihur</name></author><id>tag:,2013-01-11:enumerar-las-iteraciones-de-un-bucle-en-python.html</id><summary type="html">&lt;p&gt;Podemos utilizar &lt;em&gt;enumerate&lt;/em&gt; de python como se puede ver en el siguiente
 ejemplo:&lt;/p&gt;
-&lt;pre class="code python literal-block"&gt;
-&lt;span class="pygments-n"&gt;var&lt;/span&gt;&lt;span class="pygments-o"&gt;=&lt;/span&gt;&lt;span class="pygments-p"&gt;[&lt;/span&gt;&lt;span class="pygments-s"&gt;'Caracola'&lt;/span&gt;&lt;span class="pygments-p"&gt;,&lt;/span&gt;&lt;span class="pygments-mi"&gt;22&lt;/span&gt;&lt;span class="pygments-p"&gt;,&lt;/span&gt;&lt;span class="pygments-s"&gt;'Pez'&lt;/span&gt;&lt;span class="pygments-p"&gt;,&lt;/span&gt;&lt;span class="pygments-mi"&gt;45&lt;/span&gt;&lt;span class="pygments-p"&gt;,&lt;/span&gt;&lt;span class="pygments-mi"&gt;16&lt;/span&gt;&lt;span class="pygments-p"&gt;]&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="n"&gt;var&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="s"&gt;&amp;#39;Caracola&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;22&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="s"&gt;&amp;#39;Pez&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;45&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;16&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
 
-&lt;span class="pygments-k"&gt;for&lt;/span&gt; &lt;span class="pygments-n"&gt;idx&lt;/span&gt;&lt;span class="pygments-p"&gt;,&lt;/span&gt; &lt;span class="pygments-n"&gt;valor&lt;/span&gt; &lt;span class="pygments-ow"&gt;in&lt;/span&gt; &lt;span class="pygments-nb"&gt;enumerate&lt;/span&gt;&lt;span class="pygments-p"&gt;(&lt;/span&gt;&lt;span class="pygments-n"&gt;var&lt;/span&gt;&lt;span class="pygments-p"&gt;):&lt;/span&gt;
-  &lt;span class="pygments-k"&gt;print&lt;/span&gt; &lt;span class="pygments-n"&gt;idx&lt;/span&gt;&lt;span class="pygments-p"&gt;,&lt;/span&gt; &lt;span class="pygments-n"&gt;valor&lt;/span&gt;
-
-&lt;/pre&gt;
+&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;idx&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;valor&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;enumerate&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;var&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+  &lt;span class="k"&gt;print&lt;/span&gt; &lt;span class="n"&gt;idx&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;valor&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Siendo la salida por consola:&lt;/p&gt;
-&lt;pre class="code bash literal-block"&gt;
-Python 2.7.3  &lt;span class="pygments-o"&gt;(&lt;/span&gt;default, Aug &lt;span class="pygments-m"&gt;1&lt;/span&gt; 2012, 05:14:39&lt;span class="pygments-o"&gt;)&lt;/span&gt;
-&lt;span class="pygments-o"&gt;[&lt;/span&gt;GCC 4.6.3&lt;span class="pygments-o"&gt;]&lt;/span&gt; on linux2
-Type &lt;span class="pygments-s2"&gt;&amp;quot;help&amp;quot;&lt;/span&gt;, &lt;span class="pygments-s2"&gt;&amp;quot;copyright&amp;quot;&lt;/span&gt;, &lt;span class="pygments-s2"&gt;&amp;quot;credits&amp;quot;&lt;/span&gt; or &lt;span class="pygments-s2"&gt;&amp;quot;license&amp;quot;&lt;/span&gt; &lt;span class="pygments-k"&gt;for&lt;/span&gt; more information
-&amp;gt;&amp;gt;&amp;gt; &lt;span class="pygments-nv"&gt;var&lt;/span&gt;&lt;span class="pygments-o"&gt;=[&lt;/span&gt;&lt;span class="pygments-s1"&gt;'Caracola'&lt;/span&gt;,22,&lt;span class="pygments-s1"&gt;'Pez'&lt;/span&gt;,45,16&lt;span class="pygments-o"&gt;]&lt;/span&gt;
-&amp;gt;&amp;gt;&amp;gt; &lt;span class="pygments-k"&gt;for&lt;/span&gt; idx, valor in enumerate&lt;span class="pygments-o"&gt;(&lt;/span&gt;var&lt;span class="pygments-o"&gt;)&lt;/span&gt;:
+&lt;div class="highlight"&gt;&lt;pre&gt;Python 2.7.3  &lt;span class="o"&gt;(&lt;/span&gt;default, Aug &lt;span class="m"&gt;1&lt;/span&gt; 2012, 05:14:39&lt;span class="o"&gt;)&lt;/span&gt;
+&lt;span class="o"&gt;[&lt;/span&gt;GCC 4.6.3&lt;span class="o"&gt;]&lt;/span&gt; on linux2
+Type &lt;span class="s2"&gt;&amp;quot;help&amp;quot;&lt;/span&gt;, &lt;span class="s2"&gt;&amp;quot;copyright&amp;quot;&lt;/span&gt;, &lt;span class="s2"&gt;&amp;quot;credits&amp;quot;&lt;/span&gt; or &lt;span class="s2"&gt;&amp;quot;license&amp;quot;&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; more information
+&amp;gt;&amp;gt;&amp;gt; &lt;span class="nv"&gt;var&lt;/span&gt;&lt;span class="o"&gt;=[&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;Caracola&amp;#39;&lt;/span&gt;,22,&lt;span class="s1"&gt;&amp;#39;Pez&amp;#39;&lt;/span&gt;,45,16&lt;span class="o"&gt;]&lt;/span&gt;
+&amp;gt;&amp;gt;&amp;gt; &lt;span class="k"&gt;for&lt;/span&gt; idx, valor in enumerate&lt;span class="o"&gt;(&lt;/span&gt;var&lt;span class="o"&gt;)&lt;/span&gt;:
 ... print idx, valor
 ...
-&lt;span class="pygments-m"&gt;0&lt;/span&gt; Caracola
-&lt;span class="pygments-m"&gt;1&lt;/span&gt; 22
-&lt;span class="pygments-m"&gt;2&lt;/span&gt; Pez
-&lt;span class="pygments-m"&gt;3&lt;/span&gt; 45
-&lt;span class="pygments-m"&gt;4&lt;/span&gt; 16
+&lt;span class="m"&gt;0&lt;/span&gt; Caracola
+&lt;span class="m"&gt;1&lt;/span&gt; 22
+&lt;span class="m"&gt;2&lt;/span&gt; Pez
+&lt;span class="m"&gt;3&lt;/span&gt; 45
+&lt;span class="m"&gt;4&lt;/span&gt; 16
 &amp;gt;&amp;gt;&amp;gt;
-
-&lt;/pre&gt;
+&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Fuentes:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.doughellmann.com/PyMOTW/glob/"&gt;Doug Hellman&lt;/a&gt;&lt;/li&gt;
